@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autovpn", "autovpn.csproj", "{14C2C422-9FE8-451D-8B8B-25AF2ECF9ADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autovpn_test", "..\autovpn_test\autovpn_test.csproj", "{583D776D-AAF1-473A-BC7E-198B53954B52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C2C422-9FE8-451D-8B8B-25AF2ECF9ADC}.Debug|x86.ActiveCfg = Debug|x86
+		{14C2C422-9FE8-451D-8B8B-25AF2ECF9ADC}.Debug|x86.Build.0 = Debug|x86
+		{14C2C422-9FE8-451D-8B8B-25AF2ECF9ADC}.Release|x86.ActiveCfg = Release|x86
+		{14C2C422-9FE8-451D-8B8B-25AF2ECF9ADC}.Release|x86.Build.0 = Release|x86
+		{583D776D-AAF1-473A-BC7E-198B53954B52}.Debug|x86.ActiveCfg = Debug|x86
+		{583D776D-AAF1-473A-BC7E-198B53954B52}.Debug|x86.Build.0 = Debug|x86
+		{583D776D-AAF1-473A-BC7E-198B53954B52}.Release|x86.ActiveCfg = Release|x86
+		{583D776D-AAF1-473A-BC7E-198B53954B52}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
